@@ -1,0 +1,12 @@
+Bananas
+oranges
+apples
+pizza
+wrap
+burger
+chips
+bagel
+cereal
+waffles
+toast
+popcorn
